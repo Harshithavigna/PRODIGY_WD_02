@@ -5,4 +5,5 @@ By implementing functions for starting, pausing, and resetting the stopwatch, as
 With these technologies and functionalities, you can create an interactive and user-friendly stopwatch web application.
 
 #Technologies Used:
+
 HTML,CSS,JAVASCRIPT.....
